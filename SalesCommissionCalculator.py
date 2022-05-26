@@ -1,6 +1,9 @@
 # Author: Matthew Spiller
 # Date Modified: February 7, 2022
 
+# SalesCommissionCalculator
+# Description: Calculates the month's income for a sales employee being paid by commission, and informs him of his income/loss for the month
+
 print("Please input monthly sales: ", end='')
 monthly_sales = int(input())
 
